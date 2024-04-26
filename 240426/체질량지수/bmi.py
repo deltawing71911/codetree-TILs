@@ -7,5 +7,3 @@ b = int((100 * 100 * w) / (h * h))
 print(b)
 if int(b) >= 25:
     print("Obesity")
-else:
-    print("Normal")
